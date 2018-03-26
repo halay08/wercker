@@ -20,4 +20,3 @@ build:
     - script:
         name: fix sym links
         code: ln -sf ../phpunit/phpunit/phpunit vendor/bin/phpunit && ln -sf ../brianium/paratest/bin/paratest vendor/bin/paratest
-    - script:
