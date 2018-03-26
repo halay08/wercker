@@ -1,0 +1,10 @@
+{
+    "name": "dell/wercker",
+    "authors": [
+        {
+            "name": "Khiem Le",
+            "email": "khiem.le@workhouse.me"
+        }
+    ],
+    "require": {}
+}
